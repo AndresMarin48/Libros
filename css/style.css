@@ -8,3 +8,8 @@ img{
     margin-bottom: 50px;
     margin-left: 40px;
 }
+
+.card-body{
+    position: absolute !important;
+    transform: translateY("100px") !important;
+}
